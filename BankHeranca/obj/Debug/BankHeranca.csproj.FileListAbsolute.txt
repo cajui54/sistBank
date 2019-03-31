@@ -1,0 +1,7 @@
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\bin\Debug\BankHeranca.exe.config
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\bin\Debug\BankHeranca.exe
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\bin\Debug\BankHeranca.pdb
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\obj\Debug\BankHeranca.csprojAssemblyReference.cache
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\obj\Debug\BankHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\obj\Debug\BankHeranca.exe
+C:\Users\Jackson\Documents\Exercicios C#\BankHeranca\BankHeranca\obj\Debug\BankHeranca.pdb
